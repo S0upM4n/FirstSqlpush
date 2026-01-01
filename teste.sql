@@ -1,3 +1,4 @@
+/*beware that you first have to create a database to be able to create tables, and remember that you have to use Mariadb related syntax */
 create table alunos(
 nome varchar(25) not null,
 idade int(2) not null,
